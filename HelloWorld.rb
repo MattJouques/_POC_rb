@@ -6,7 +6,7 @@ BEGIN {
     puts "Initializing #{appTitle}"
 }
 
-
+# Basic stuff
 
 print <<EOF
     This is a test of multiline items
